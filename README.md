@@ -156,5 +156,5 @@ guillaume@ubuntu:~/AirBnB$ ./console.py
 ```
 
 # Authors
-- Okpara Onyedikachi G
-- Moses Odunosho
+- RIDWANE EL FILALI
+- AYOUB EL HAOUTI
